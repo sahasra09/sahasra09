@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ⦿ Currently , Im learning french, coding -: Javascript,React-native,database,HTML and CSS
 
-⦿ I would love to be a professional badminton player in my future.
+⦿ I would love to be a professional badminton player in my future... My future is my Olympics gold medal: I dream of it 30 times a day! , and yet ! Im never tired of dreaming and unleashing the true world of happiness which is my dream and my future! , My current dream- Admitting in the gopichand acadamy,meeting loads of new talents and international players, and meeting the most respected person in my life after Lee Chong Wei,Pullela Gopichand sir! I love the smell of enthusiasm,the feel of my pride in every an each of my fan's heart and head, just a few more years, and im going to create history for India at the olympics, so each and every one, do watch me , upcoming prodigy at 2036 or 2032 olympics! Incase you want my autograph in future : Shuttler Sree Sahasra.R(my full name)
 
 ⦿ My dream city is Iceland
 
