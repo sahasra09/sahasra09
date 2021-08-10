@@ -1,4 +1,5 @@
-(https://user-images.githubusercontent.com/73017579/128830507-ac614e3a-2edf-4f89-ae9c-74cf1a9bdc9b.gif)
+![coollogo_com-25464233](https://user-images.githubusercontent.com/73017579/128830736-2527047e-8164-47ed-a4be-e54793c41f69.gif)
+
 
 
 <!--
