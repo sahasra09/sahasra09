@@ -11,3 +11,6 @@ I also did create a couple of games and websites
  
 
 --- july 2021
+
+
+update:- I dont code anymore and if you want access to any of my reps, you can message me
