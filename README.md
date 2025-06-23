@@ -11,6 +11,5 @@ I also did create a couple of games and websites ( go to repositories section be
  
 
 --- july 2021
-![Profile Views](https://komarev.com/ghpvc/?username=sahasra09&color=blueviolet&style=flat)
 
 update:- I dont code anymore and if you want access to any of my reps, you can message me
