@@ -3,7 +3,7 @@ I uhm like wasting time ⭐
 athlete:- i play badminton professionally and skate some times 
 
  I do enjoy coding and 3d designing ( still getting better ) n have created over 100+ reps on various stuff involving python, ml, c++ , sql, css and matlab 
- 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahasra09&layout=compact)
 
 I also did create a couple of games and websites ( go to repositories section beside overview on the top, pls dont fork any of them for your benefits )
 
