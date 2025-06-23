@@ -4,7 +4,6 @@ athlete:- i play badminton professionally and skate some times
 
  I do enjoy coding and 3d designing ( still getting better ) n have created over 100+ reps on various stuff involving python, ml, c++ , sql, css and matlab 
  
-![Most Used Languages](https://github-readme-stats-pie-chart.vercel.app/api/top-langs/?username=sahasra09)
 
 I also did create a couple of games and websites ( go to repositories section beside overview on the top, pls dont fork any of them for your benefits )
 
