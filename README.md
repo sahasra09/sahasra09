@@ -2,7 +2,7 @@ I uhm like wasting time ⭐
 
 athlete:- i play badminton professionally and skate some times 
 
- I do enjoy coding and 3d designing ( still getting better ) n have created over 100+ reps on various stuff involving python, ml, c++ , sql, css and matlab 
+ I do enjoy coding and 3d designing ( still getting better ) n have created over 100+ reps on various stuff involving python, c++ , sql, css and matlab 
 
 
 
