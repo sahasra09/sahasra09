@@ -7,7 +7,7 @@ I also did create a couple of games and websites ( go to repositories section be
  Some of my repositories require to be unzipped after being downloaded and can be run through VSC or npm install.
 
 
-A couple of my python projects involving data visualisation hv been made on Google Colab :- ( a few of them using naive bayes, logistic regression ,confusion matrix n scattering [and some more supervised ML ] ) :-
+A couple of my projects involving data visualisation hv been made on Google Colab :- ( a few of them using naive bayes, logistic regression ,confusion matrix n scattering [and some more supervised ML ] ) :-
 https://colab.research.google.com/drive/13UNdPK9ld-wR1kOTCdZjYURJN_ePwNrt?usp=sharing
 
 https://colab.research.google.com/drive/1-xZPqX2OEUJVIaGlSVDibvriLicd9fwz?usp=sharing ( a basic confusion matrix )
